@@ -1,0 +1,8 @@
+{
+  "weights": {
+    "text": 0.2,
+    "meta": 0.4,
+    "image": 0.4
+  },
+  "train_acc": 1.0
+}
